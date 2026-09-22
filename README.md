@@ -134,7 +134,7 @@ erDiagram
 
 ---
 
-SQL-запросы CREATE TABLE
+SQL-запросы
 
 ```sql
 CREATE TABLE student_groups (
