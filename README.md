@@ -202,18 +202,3 @@ grade DECIMAL(2,1) NOT NULL
 ```
 
 ---
-
-## Команды для Git
-
-Выполните в папке с решением:
-
-```bash
-git init
-git add .
-git commit -m "Lesson 3-4: normalization to 3NF"
-git branch -M main
-git remote add origin <URL_вашего_репозитория>
-git push -u origin main
-```
-
-Ссылку на репозиторий GitHub нужно прикрепить к домашнему заданию.
